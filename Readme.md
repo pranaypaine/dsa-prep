@@ -1,2 +1,2 @@
 # Data Structures & Algorithms
-> My DSA learning inn various languages.
+> My DSA learning in various languages.
